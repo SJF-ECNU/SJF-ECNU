@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SJF-ECNU
 - 👀 I’m interested in code study
-- 🌱 I’m currently learning Dase
+- 🌱 I’m currently learning DaSE
 - 📫 How to reach me : QQ 1640992445
 
 <!---
